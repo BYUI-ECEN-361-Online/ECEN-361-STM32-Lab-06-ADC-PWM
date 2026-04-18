@@ -87,6 +87,10 @@ Measure the D4_LED output at a different duty-cycle points. The duty cycle is sh
 * Does the duty cycle shown match the waveform?  List the measured times  (high vs low)
   
    High Time: <mark>[*answer here*]</mark>    Low Time: <mark>[*answer here*]</mark>
+   High Time: <mark>[*answer here*]</mark>    Low Time: <mark>[*answer here*]</mark>
+   High Time: <mark>[*answer here*]</mark>    Low Time: <mark>[*answer here*]</mark>
+   High Time: <mark>[*answer here*]</mark>    Low Time: <mark>[*answer here*]</mark>
+   High Time: <mark>[*answer here*]</mark>    Low Time: <mark>[*answer here*]</mark>
 
 ### DAC (4 pts)
 
